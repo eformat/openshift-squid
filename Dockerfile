@@ -1,4 +1,4 @@
-FROM registry.redhat.io/ubi9/ubi:latest
+FROM registry.access.redhat.com/ubi9/ubi:latest
 
 ENV SQUID_VERSION=5.2.1
 
